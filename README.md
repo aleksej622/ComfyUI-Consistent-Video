@@ -1,6 +1,6 @@
 # comfy-temporal-stability
 
-This is a python script that uses ebsynth to stabilize video made with stable diffusion.
+This is a python script that uses ebsynth to stabilize video made with stable diffusion. All credit for the code goes to zamp.
 
 ## Install
 
